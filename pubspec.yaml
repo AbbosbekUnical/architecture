@@ -29,6 +29,7 @@ dependencies:
   dio_retry_plus: ^2.0.6
   #retrofit
   retrofit: ^4.1.0
+  json_annotation: ^4.8.1
   #gap
   gap: ^3.0.1
   #svg
@@ -49,6 +50,7 @@ dev_dependencies:
   flutter_lints: ^3.0.0
   build_runner: ^2.4.9
   retrofit_generator: ^8.1.0
+  json_serializable: ^6.6.2
 
 flutter:
 
